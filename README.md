@@ -39,4 +39,4 @@ Pilem adalah aplikasi Android untuk menjelajahi, mencari, dan menonton film sert
 
 ## Instalasi
 
-Unduh APK dari halaman **Releases** GitHub, lalu instal di perangkat Android. Jika membangun dari kode sumber, gunakan berkas APK rilis yang tersedia di `app/release/app-release.apk`.
+Unduh APK dari halaman **Releases** GitHub, lalu instal di perangkat Android. Jika membangun dari kode sumber, gunakan berkas APK rilis yang tersedia di release file.
